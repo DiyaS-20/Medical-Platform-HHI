@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medical-database-ce858",
+  "private_key_id": "a3e3ef6e562111999250356d0399531f6fb455a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSwzIM63kDWqh6\nVEAuKEsElqSVApNWcxSEqovEbVhz2ROvHAXR2M8w9JS1aGfipwydcAOy2xEW+XBo\nBq4rixLxnau5d5CYiNleCCnPk3HsBfrGbtfTVV6VZvde05wH3oY+DLHdDZZs5neL\n3+2Xs5RkxKkmrGsobU/2Cg55nOofY+ej4K9j+8XUN88VBHfITaPUUyJWydi5Zha+\nZKLsTArXm7xos9iYVkVAgxiZljlujZ6ts4PLag459wfupftZKUrpN1A+VEy3U7XH\nN+AbGqvxA7dtqvk9DA4PLnPzqubu2+Y6q2MD3415zXl7rdgWWz5nc6J+8X95dQc9\nzYPTkdc5AgMBAAECggEAAr376urhZXMlr7dwRYyCLlFEPPaB2z0mNn5bQy3J18xI\nBl8PKscSw/bl6mfLfRwi67QilY5rSNMbSw5I5c5g6bvI8BuwS3FPImcjpNm76K2J\n7Hg4tx2iuUblu1NX2HvLZVBmaFtvIpTByg7CiTGVRba49FyHWgeE1XOFprcMVs7H\nT9fxTRhF73GKbTe7jADu9Uj7ij2WKfpCyXnLSRnA8jc1cFFSDPRoXIOd9quTurqA\n79JPPGZxOPKzqq2mp/gXYO3ZEdle7nAbrP/XwxgtDjIx6YrQdpRwqD4u40fgvPv+\n20qUjSr5zCb52ON+Th0u+f0QncRS8S5+bVXBmCyjMwKBgQDGuPXQ00yddrBjkrhS\nLXVQ33SfPgQYin1Ub6eW6SZUULwYEZ3hEzbgOzWN1ASI0BuW4yKgrgvBp5Q4SzQL\nHWB6we0yV6S2hTRo0hjHwrb+6wYZNyUx7v/0LMmogZgcHu1bXvUJozMyO8ML+CEV\nFNLJG4BH6KpXBHGEbhpxDd/EUwKBgQC9EElw5x30rlZr34HSPju+Dn317mkM5YsK\n6H0fejObJU/7aQLdbxMz6CSR7KffLTAj8nIkghmzPuFgO15s6mgMQWARoS8phaKs\nlQ1f28yzHO97xa9G20p1Gloa5db+5fB1Djb0+X55UiiIgvS7JMNKgcayUy48USwm\nwQbRjvoEwwKBgQCkMEXJmAuBPoNWge8Q1sZLX5T3zUGNFT+f9/C72z70AxClwkhz\nonCAq+r/l+F3OJrS/C+sGqFUC6WHLXt+g3MnefsE0S0iMMSwpoYa5mJUFNMhGlL9\nAr8ve6HSO+D1uwfZqodCwziVlJL+3LBYvq+5waMnxrCW3PD9vgrSxefQSQKBgFeL\nFRaMTdigaS/l/GznmC4286hOzqHEIA/a+yT6Jq8uJczaIRN7fT7JvTU8ibbTa7kZ\naDTzcQcIlL9EfkKcf7U9CEjhg78MO/kBw4GhezVsro93R+PdYqq6mwJdbqH0wtTQ\n0i244RE4M8CSMtP8/9ieIu0rivsu8uy28HtUYvyVAoGBAIvEJOSpWFqXNBV6/1wY\nEShgDPGlpRam8nKX53t6VpjM9n9sicGckprjOHFP5Js+hs5kMjrCZOh+ZG/IMbku\nXyJ4KbQ3hFzNxTgmOg7ccZk331MNcxQvhYjeNPw7KdZfTRNhn4CCWeF+p82+jRqi\nKWSMJME5yCRuhDWzTzidEzNJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-juf7t@medical-database-ce858.iam.gserviceaccount.com",
+  "client_id": "116571853479456294928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-juf7t%40medical-database-ce858.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
